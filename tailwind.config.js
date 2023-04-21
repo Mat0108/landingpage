@@ -7,13 +7,13 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'av-ulight': ['AvenirNextCyrUltraLight', 'sans-serif'],
-        'av-light': ['AvenirNextCyrLight', 'sans-serif'],
-        'av-thin': ['AvenirNextCyrThin', 'sans-serif'],
-        'av-rg': ['AvenirNextCyr', 'sans-serif'],
-        'av-md': ['AvenirNextCyrMedium', 'sans-serif'],
-        'av-demi': ['AvenirNextCyrDemi', 'sans-serif'],
-        'av-bold': ['AvenirNextCyrBold', 'sans-serif']
+        'av-ulight': ['Montserrat', 'sans-serif'],
+        'av-light': ['MontserratLight', 'sans-serif'],
+        'av-thin': ['MontserratThin', 'sans-serif'],
+        'av-rg': ['Montserrat', 'sans-serif'],
+        'av-md': ['MontserratMedium', 'sans-serif'],
+        'av-demi': ['MontserratDemi', 'sans-serif'],
+        'av-bold': ['MontserratBold', 'sans-serif']
       },
       gridTemplateColumns:{
         'rectangle':'200px 300px 700px 150px',

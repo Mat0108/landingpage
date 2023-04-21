@@ -1,4 +1,8 @@
 const Colors = {
+  "blue":"#264C4D",
+  "russet":"#823919",
+  "vivid_tangerine":"#F5AD89",
+  "white_coffee":"#E4DDD3",
   "transparent": "transparent",
   "white": "#FFFFFF",
   "white2": "#FFF9F9",
@@ -16,7 +20,7 @@ const Colors = {
   "pink-carmine":"#E84142",
   "orange-sunset": "#FF5A60",
   "red-Venetian" :"#C97064",
-  "blue": "#3466C3",
+  "blue2": "#3466C3",
   "blue-yale": "#113F95",
   "light-blue": "#618CDC",
   "yellow": "#F4D345",
