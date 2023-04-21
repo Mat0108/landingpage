@@ -6,7 +6,7 @@ const Firstlayout = () =>{
     <>
     
     <div className='w-full h-[50px] border-b-2 border-white grid grid-cols-5 bg-[#DEE4E4]'>
-        <div className='col-start-1 ml-[35px] mt-[0px] flex items-start '><img src={logo}/></div>
+        <div className='col-start-1 ml-[35px] mt-[px] flex items-start '><img src={logo}/></div>
         <div className='col-start-4 col-span-2 flex items-start'>
             <div className='flex flex-row text-lg space-x-3 ml-[80px] mt-[10px]'>
                 <div>Diagnotics</div>

@@ -3,7 +3,7 @@ import visageimage2 from "../images/visage4.png"
 const Visage3 =()=>{
     return (
         <>
-        <div className="relative w-full h-0.5 mt-[30px] bg-[#10264C4D]"></div>
+        <div className="relative w-full h-0.5 bg-[#10264C4D]"></div>
         <div className="relative w-full h-fit grid grid-cols-2 mt-[20px] ">
             <div className="ml-[20px] col-start-1 w bg-[#DEE4E4] flex justify-start">
                 <div className="flex flex-col ">
