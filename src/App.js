@@ -8,6 +8,9 @@ import Produit from './components/produit';
 import Conseil from './components/conseil';
 import Expertise from './components/expertise';
 import Newsletter from './components/newsletter';
+
+
+
 function App() {
   // const text1 = "Son corps idéal : elle voudrait prendre soin de sa peau facilement, et trouver une rutine skin care qui correspond à son type de peau sans passer des mois à contacter un spécialiste.";
 
