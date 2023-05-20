@@ -9,9 +9,6 @@ import Conseil from './components/conseil';
 import Expertise from './components/expertise';
 import Newsletter from './components/newsletter';
 
-
-
-
 import {switchtext} from './components/textdivers';
 
 import fullvisage from "./images/fullvisage.png";
