@@ -12,7 +12,7 @@ const switchtext=(params)=>{
     case "produitcol1":
       return produitcol1()
     case "produitcol2":
-      return produitcol2();
+      return produitcol2(); 
     case "produitcol3":
       return produitcol3()
   }
@@ -21,7 +21,7 @@ const presentation = ()=>{
     return (<>
       <p className="ml-[30px] text-[50px] font-av-bold text-blue text-left">Po.</p>
       <p className="ml-[30px] text-[40px] font-av-bold text-blue text-left">pour une belle peau</p>
-      <p className="ml-[30px] mt-[30px] text-[14px] text-left w-[500px]">
+      <p className="ml-[30px] mt-[30px] text-[14px] text-left w-[600px]">
       Chez Po. nous sommes convaincus que prendre soin de sa peau devrait être à la portée de tous et de toutes.
       C’est pour cela que nous voulons rendre accessible les soins, les conseils, les expertises.
       </p>

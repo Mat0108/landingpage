@@ -15,10 +15,7 @@ const Layout2image =({props})=>{
                     <div className=" ml-[30px] mt-[10px]"> <img src={props.image2.url} alt={props.image2.alt}  /></div>        
                     {props.col2}
                 </div>
-                
-
             </div>
-            
         </div>
         <div className="relative w-full h-0.5 mt-[50px] bg-[#10264C4D]"></div>
         </>
